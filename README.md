@@ -30,3 +30,11 @@ The Student Management System (SMS) is a REST API designed to help schools effic
 - **Swagger (Optional)**: For API documentation.
 - **JUnit**: For unit testing.
 - **Postman**: For testing API endpoints.
+  
+## Versions:
+Spring Boot: 3.4.4.
+Maven 4.0.0.
+Java: 21.
+MySQL: latest version compatible with the project.
+Lombok: latest version compatible.
+JSON Web Tokens (JWT): 0.12.5.
