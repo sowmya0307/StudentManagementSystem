@@ -23,18 +23,16 @@ The Student Management System (SMS) is a REST API designed to help schools effic
    - Students can search for topics and courses they are assigned to.
    - Students can leave a course.
 
-## Technologies Used
+## Technologies and Versions Used
 - **Spring Boot**: For REST API development.
 - **JPA with Hibernate**: For database interactions.
 - **Spring Security**: For authentication and authorization.
 - **Swagger (Optional)**: For API documentation.
 - **JUnit**: For unit testing.
 - **Postman**: For testing API endpoints.
-  
-## Versions:
-Spring Boot: 3.4.4.
-Maven 4.0.0.
-Java: 21.
-MySQL: latest version compatible with the project.
-Lombok: latest version compatible.
-JSON Web Tokens (JWT): 0.12.5.
+- Spring Boot: 3.4.4.
+- Maven 4.0.0.
+- Java: 21.
+- MySQL: latest version compatible with the project.
+- Lombok: latest version compatible.
+- JSON Web Tokens (JWT): 0.12.5.
